@@ -59,8 +59,6 @@ Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for
 
 <br />
 <br />
-<br />
-
 
 #### :computer: Other software:
 [<img align="left" alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" />][figma]
