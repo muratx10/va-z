@@ -54,14 +54,14 @@ Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for
 [<img align="left" alt="yarn" width="40px" src="https://cdn.svgporn.com/logos/yarn.svg" />][yarn]
 [<img align="left" alt="npm" width="40px" src="https://cdn.svgporn.com/logos/npm-icon.svg" />][npm]
 [<img align="left" alt="webpack" width="40px" src="https://cdn.svgporn.com/logos/webpack.svg" />][webpack]
-[<img align="left" alt="gulp" width="40px" src="https://cdn.svgporn.com/logos/gulp.svg" />][gulp]
+[<img align="left" alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" />][gulp]
 [<img align="left" alt="jest" width="40px" src="https://cdn.svgporn.com/logos/jest.svg" />][jest]
 
 <br />
 <br />
 
 #### Other software:
-[<img align="left" alt="markdown" width="40px" src="https://cdn.svgporn.com/logos/figma.svg" />][figma]
+[<img align="left" alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" />][figma]
 [<img align="left" alt="markdown" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />][photoshop]
 
 <br />
