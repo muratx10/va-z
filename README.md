@@ -1,16 +1,18 @@
-### Hi there 👋
+### Greetings 
 
-<!--
-**va-z/va-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for work. Check out [my resume](https://va-z.github.io/rsschool-cv/) to see if I could help your team.
+  
+:computer: __Finished projects__:
+ - WIP
 
-Here are some ideas to get you started:
+:wrench: Projects __in pipeline__:
+ - WIP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:white_check_mark: Tech I'm __experienced with__:
+ - WIP
+ 
+:books: Tech I look forward to __learning__:
+ - WIP
+
+
+![Vasili's GitHub stats](https://github-readme-stats.vercel.app/api?username=va-z&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=6e106e&hide=stars,issues&show_icons=true)
