@@ -4,21 +4,12 @@ Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for
 
 #### :wave: Contact me:
  - WIP
- 
-<br />
-<br />
-  
+
 #### :computer: Finished projects:
  - WIP
 
-<br />
-<br />
-
 #### :construction_worker: In pipeline:
  - WIP
-
-<br />
-<br />
 
 #### :white_check_mark: Have experience with:
 [<img align="left" alt="JavaScript" width="40px" src="https://cdn.svgporn.com/logos/javascript.svg" />][javascript]
@@ -32,14 +23,20 @@ Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for
 
 <br />
 <br />
+<br />
 
 #### :books: Currently learning:
-[<img align="left" alt="typescript" width="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />][typescript]
-[<img align="left" alt="node" width="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />][nodejs]
-[<img align="left" alt="firebase" width="40px" src="https://cdn.svgporn.com/logos/firebase.svg" />][firebase]
-
-<br />
-<br />
+<p>
+ <a align="left" href="test">
+  <img alt="typescript" width="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
+ </a>
+ <a align="left" href="test2">
+  <img align="left" alt="node" width="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />
+ </a>
+ <a align="left" href="test3">
+  <img align="left" alt="firebase" width="40px" src="https://cdn.svgporn.com/logos/firebase.svg" />
+ </a>
+</p>
 
 #### :wrench: Known tools:
 [<img align="left" alt="terminal" width="40px" src="https://cdn.svgporn.com/logos/terminal.svg" />][terminal]
@@ -59,11 +56,13 @@ Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for
 
 <br />
 <br />
+<br />
 
-#### Other software:
+#### :computer: Other software:
 [<img align="left" alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" />][figma]
 [<img align="left" alt="markdown" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />][photoshop]
 
+<br />
 <br />
 <br />
 
