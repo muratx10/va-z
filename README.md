@@ -14,7 +14,5 @@ My name is __Vasili__ and I build stuff, mostly in JavaScript. Currently looking
 :books: Tech I look forward to __learning__:
  - WIP
 
-![Vasili's GitHub stats](https://github-readme-stats.vercel.app/api?username=va-z&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=6e106e&hide=stars,issues&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va-z&layout=compact&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=6e106e)
+![Vasili's GitHub stats](https://github-readme-stats.vercel.app/api?username=va-z&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=6e106e&hide=stars,issues&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va-z&layout=compact&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=6e106e)
 
