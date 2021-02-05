@@ -3,7 +3,9 @@
 
 Name's __Vasili__ and I build stuff, mostly in JavaScript. 
 
-Currently looking for work as a Junior Front-end Developer. Check out [my full résumé][resume] to see if my skills would be helpful to your team.
+Currently looking for work as a Front-end Developer. 
+
+Check out [my full résumé][resume] to see if my skills would be helpful to your team.
 
 #### :white_check_mark: Have experience with:
 <p>
@@ -14,6 +16,7 @@ Currently looking for work as a Junior Front-end Developer. Check out [my full r
  <a href="https://reactjs.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
  <a href="https://redux.js.org"><code><img alt="Redux" height="40px" src="https://cdn.svgporn.com/logos/redux.svg" /></code></a>
  <a href="https://d3js.org"><code><img alt="D3" height="40px" src="https://cdn.svgporn.com/logos/d3.svg" /></code></a>
+ <a href="https://www.chartjs.org"><code><img alt="chartjs" height="40px" src="https://www.chartjs.org/img/chartjs-logo.svg" /></code></a>
  <a href="https://leafletjs.com"><code><img alt="leaflet" height="40px" src="https://cdn.svgporn.com/logos/leaflet.svg" /></code></a>
 </p>
 
