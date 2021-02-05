@@ -21,25 +21,23 @@ Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for
 <br />
 
 #### :white_check_mark: Have experience with:
-[<img align="left" alt="JavaScript" width="40px" src="https://cdn.svgporn.com/logos/javascript.svg" />](https://www.javascript.com)
-[<img align="left" alt="HTML5" width="40px" src="https://cdn.svgporn.com/logos/html-5.svg" />](https://en.wikipedia.org/wiki/HTML)
-[<img align="left" alt="CSS3" width="40px" src="https://cdn.svgporn.com/logos/css-3.svg" />](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-[<img align="left" alt="Sass" width="40px" src="https://cdn.svgporn.com/logos/sass.svg" />](https://sass-lang.com)
-[<img align="left" alt="React" width="40px" src="https://cdn.svgporn.com/logos/react.svg" />](https://reactjs.org/)
-[<img align="left" alt="Redux" width="40px" src="https://cdn.svgporn.com/logos/redux.svg" />](https://redux.js.org)
-[<img align="left" alt="D3" width="40px" src="https://cdn.svgporn.com/logos/d3.svg" />](https://d3js.org)
-[<img align="left" alt="leaflet" width="100px" src="https://cdn.svgporn.com/logos/leaflet.svg" />](https://leafletjs.com)
-
-<br />
-<br />
+<p>
+ <code><img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code>
+ <code><img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code>
+ <code><img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code>
+ <code><img alt="Sass" height="30px" src="https://cdn.svgporn.com/logos/sass.svg" /></code>
+ <code><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/react.svg" /></code>
+ <code><img alt="Redux" height="30px" src="https://cdn.svgporn.com/logos/redux.svg" /></code>
+ <code><img alt="D3" height="30px" src="https://cdn.svgporn.com/logos/d3.svg" /></code>
+ <code><img alt="leaflet" height="30px" src="https://cdn.svgporn.com/logos/leaflet.svg" /></code>
+</p>
 
 #### :books: Currently learning:
-[<img align="left" alt="typescript" width="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />](https://www.typescriptlang.org)
-[<img align="left" alt="node" width="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />](https://nodejs.org/en)
-[<img align="left" alt="firebase" width="40px" src="https://cdn.svgporn.com/logos/firebase.svg" />](https://firebase.google.com)
-
-<br />
-<br />
+<p>
+ <a href="https://www.typescriptlang.org"><code><img alt="typescript" height="30px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /></code></a>
+ <a href="https://nodejs.org/en"><code><img alt="node" height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" /></code></a>
+ <a href="https://firebase.google.com"><code><img alt="firebase" height="30px" src="https://cdn.svgporn.com/logos/firebase.svg" /></code></a>
+</p>
 
 #### :wrench: Known tools:
 [<img align="left" alt="terminal" width="40px" src="https://cdn.svgporn.com/logos/terminal.svg" />](https://docs.microsoft.com/en-us/windows/terminal)
