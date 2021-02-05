@@ -22,14 +22,14 @@ Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for
 
 #### :white_check_mark: Have experience with:
 <p>
- <code><img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code>
- <code><img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code>
- <code><img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code>
- <code><img alt="Sass" height="30px" src="https://cdn.svgporn.com/logos/sass.svg" /></code>
- <code><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/react.svg" /></code>
- <code><img alt="Redux" height="30px" src="https://cdn.svgporn.com/logos/redux.svg" /></code>
- <code><img alt="D3" height="30px" src="https://cdn.svgporn.com/logos/d3.svg" /></code>
- <code><img alt="leaflet" height="30px" src="https://cdn.svgporn.com/logos/leaflet.svg" /></code>
+ <a href="https://www.javascript.com"><code><img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><code><img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
+ <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><code><img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code></a>
+ <a href="https://sass-lang.com"><code><img alt="Sass" height="30px" src="https://cdn.svgporn.com/logos/sass.svg" /></code></a>
+ <a href="https://reactjs.org/"><code><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
+ <a href="https://redux.js.org"><code><img alt="Redux" height="30px" src="https://cdn.svgporn.com/logos/redux.svg" /></code></a>
+ <a href="https://d3js.org"><code><img alt="D3" height="30px" src="https://cdn.svgporn.com/logos/d3.svg" /></code></a>
+ <a href="https://leafletjs.com"><code><img alt="leaflet" height="30px" src="https://cdn.svgporn.com/logos/leaflet.svg" /></code></a>
 </p>
 
 #### :books: Currently learning:
@@ -40,27 +40,28 @@ Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for
 </p>
 
 #### :wrench: Known tools:
-[<img align="left" alt="terminal" width="40px" src="https://cdn.svgporn.com/logos/terminal.svg" />](https://docs.microsoft.com/en-us/windows/terminal)
-[<img align="left" alt="vscode" width="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />](https://code.visualstudio.com)
-[<img align="left" alt="markdown" width="40px" src="https://cdn.svgporn.com/logos/markdown.svg" />](https://www.markdownguide.org)
-[<img align="left" alt="git" width="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />](https://git-scm.com)
-[<img align="left" alt="github" width="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com)
-[<img align="left" alt="editorconfig" width="40px" src="https://pbs.twimg.com/profile_images/1859373103/edcon_color_transbg2_400x400.png" />](https://editorconfig.org)
-[<img align="left" alt="eslint" width="40px" src="https://cdn.svgporn.com/logos/eslint.svg" />](https://eslint.org)
-[<img align="left" alt="prettier" width="40px" src="https://cdn.svgporn.com/logos/prettier.svg" />](https://prettier.io)
-[<img align="left" alt="babel" width="40px" src="https://cdn.svgporn.com/logos/babel.svg" />](https://babeljs.io)
-[<img align="left" alt="yarn" width="40px" src="https://cdn.svgporn.com/logos/yarn.svg" />](https://yarnpkg.com)
-[<img align="left" alt="npm" width="40px" src="https://cdn.svgporn.com/logos/npm-icon.svg" />](https://npmjs.com)
-[<img align="left" alt="webpack" width="40px" src="https://cdn.svgporn.com/logos/webpack.svg" />](https://webpack.js.org)
-[<img align="left" alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" />](https://gulpjs.com)
-[<img align="left" alt="jest" width="40px" src="https://cdn.svgporn.com/logos/jest.svg" />](https://jestjs.io)
-
-<br />
-<br />
+<p>
+ <a href="https://docs.microsoft.com/en-us/windows/terminal"><code><img alt="terminal" height="40px" src="https://cdn.svgporn.com/logos/terminal.svg" /></code></a>
+ <a href="https://code.visualstudio.com"><code><img alt="vscode" height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" /></code></a>
+ <a href="https://www.markdownguide.org"><code><img alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/markdown.svg" /></code></a>
+ <a href="https://git-scm.com"><code><img alt="git" height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" /></code></a>
+ <a href="https://github.com"><code><img alt="github" height="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" /></code></a>
+ <a href="https://editorconfig.org"><code><img alt="editorconfig" height="40px" src="https://pbs.twimg.com/profile_images/1859373103/edcon_color_transbg2_400x400.png" /></code></a>
+ <a href="https://eslint.org"><code><img alt="eslint" height="40px" src="https://cdn.svgporn.com/logos/eslint.svg" /></code></a>
+ <a href="https://prettier.io"><code><img alt="prettier" height="40px" src="https://cdn.svgporn.com/logos/prettier.svg" /></code></a>
+ <a href="https://babeljs.io"><code><img alt="babel" height="40px" src="https://cdn.svgporn.com/logos/babel.svg" /></code></a>
+ <a href="https://yarnpkg.com"><code><img alt="yarn" height="40px" src="https://cdn.svgporn.com/logos/yarn.svg" /></code></a>
+ <a href="https://npmjs.com"><code><img alt="npm" height="40px" src="https://cdn.svgporn.com/logos/npm-icon.svg" /></code></a>
+ <a href="https://webpack.js.org"><code><img alt="webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code></a>
+ <a href="https://gulpjs.com"><code><img alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" /></code></a>
+ <a href="https://jestjs.io"><code><img alt="jest" height="40px" src="https://cdn.svgporn.com/logos/jest.svg" /></code></a>
+</p>
 
 #### :computer: Other software:
-[<img align="left" alt="markdown" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" />](https://figma.com)
-[<img align="left" alt="markdown" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />](https://www.adobe.com/ru/products/photoshop.html)
+<p>
+ <a href="https://figma.com"><code><img alt="figma" height="40px" src="https://cdn.svgporn.com/logos/figma.svg" /></code></a>
+ <a href="https://www.adobe.com/ru/products/photoshop.html"><code><img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code></a>
+</p>
 
 ![Github Stats][ghStats]
 
