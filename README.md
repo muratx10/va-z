@@ -1,6 +1,9 @@
 ### Sup :metal: 
+<img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=va-z&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
 
-Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for work as a Junior Front-end Developer. Check out [my full résumé][resume] to see if my skills would be helpful to your team.
+Name's __Vasili__ and I build stuff, mostly in JavaScript. 
+
+Currently looking for work as a Junior Front-end Developer. Check out [my full résumé][resume] to see if my skills would be helpful to your team.
 
 #### :wave: Contact me:
  - WIP
@@ -63,7 +66,6 @@ Name's __Vasili__ and I build stuff, mostly in JavaScript. Currently looking for
  <a href="https://www.adobe.com/ru/products/photoshop.html"><code><img alt="photoshop" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code></a>
 </p>
 
-![Github Stats][ghStats]
+![](https://img.shields.io/github/last-commit/va-z/va-z?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
 
 [resume]: https://va-z.github.io/rsschool-cv/
-[ghStats]: https://github-readme-stats.vercel.app/api?username=va-z&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true
