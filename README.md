@@ -53,4 +53,6 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
 
 ![](https://img.shields.io/github/last-commit/va-z/va-z?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
 
-[resume]: fontend_developer_vasili_zadorojnyuk.pdf
+[resume]: https://docs.google.com/viewer?url=https://github.com/va-z/va-z/blob/develop/frontend_developer_vasili_zadorojnyuk.pdf?raw=true
+[comment]: <> (Resume is displayed using the google docs viewer trick)
+[comment]: <> (URL is: https://docs.google.com/viewer?url={link_to_raw_pdf})
