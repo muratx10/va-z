@@ -1,13 +1,15 @@
-### Sup :metal: 
+### Sup :metal:
+
 <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=va-z&count_private=true&bg_color=0,C04848,480048&title_color=fff&text_color=fff&&icon_color=fff&hide=stars,issues&show_icons=true" />
 
-Name's __Vasili__ and I build stuff, mostly in JavaScript. 
+Name's **Vasili** and I build stuff, mostly in JavaScript.
 
-Currently looking for work as a Front-end Developer. 
+Currently looking for work as a Front-end Developer.
 
 Check out [my full résumé][resume] to see if my skills would be helpful to your team.
 
 #### :white_check_mark: Have experience with:
+
 <p>
  <a href="https://www.javascript.com"><code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
  <a href="https://en.wikipedia.org/wiki/HTML"><code><img alt="HTML5" height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
@@ -21,6 +23,7 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
 </p>
 
 #### :books: Currently studying:
+
 <p>
  <a href="https://www.typescriptlang.org"><code><img alt="typescript" height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /></code></a>
  <a href="https://nodejs.org/en"><code><img alt="node" height="40px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" /></code></a>
@@ -28,6 +31,7 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
 </p>
 
 #### :wrench: Known tools and other software:
+
 <p>
  <a href="https://webpack.js.org"><code><img alt="webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code></a>
  <a href="https://gulpjs.com"><code><img alt="gulp" height="40px" src="https://cdn.svgporn.com/logos/gulp.svg" /></code></a>
@@ -49,4 +53,6 @@ Check out [my full résumé][resume] to see if my skills would be helpful to you
 
 ![](https://img.shields.io/github/last-commit/va-z/va-z?label=readme%20last%20updated&logo=github&logoColor=green&style=for-the-badge)
 
-[resume]: https://va-z.github.io/rsschool-cv/
+[resume]: https://docs.google.com/viewer?url=https://github.com/va-z/va-z/blob/develop/frontend_developer_vasili_zadorojnyuk.pdf?raw=true
+[comment]: <> (Resume is displayed using the google docs viewer trick)
+[comment]: <> (URL is: https://docs.google.com/viewer?url={link_to_raw_pdf})
